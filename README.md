@@ -24,3 +24,5 @@ Using a number of real datasets, explore different strategies of converting cate
 | Adult | 48,842 | 67% | 33% | 8 categorical | Predict if one's income is > 50k | - |
 
 Authors: Wren Paris-Moe, Thomas Butler, Emily Liang, Andrea Stine
+
+Note: only 2 of 6 datasets were under the size limit for uploading to GitHub
