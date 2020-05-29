@@ -13,7 +13,9 @@ Supervised learning models are the cornerstone of the many Machine Learning mode
 Using a number of real datasets, explore different strategies of converting categorical features into numeric features. All the datasets have a set of input features/covariates (categorical and numerical). The comparisons should be in terms of the following metrics, (1) Accuracy of a predictive model, (2) AUC of the ROC Curve, (3) Compute time of the conversion process.
 
 ### Datasets
+
 | Name of Data Set | Size | Training Size | Testing Size | Features | Prediction Task | Comments |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Criteo Conversion | 15,898,883 | 70% | 30% | 9 numerical + 9 categorical | Click | - |
 | Amazon Employee Access | 32,769 | 70% | 30% | 9 categorical | Is access appropriate for an employee? | - |
 | Avazu Click Through Rate Prediction Rate Prediction | 40,428,968 | 50% | 50% | 20 categorical | Click on advertisement | Mobile app advertisement data |
